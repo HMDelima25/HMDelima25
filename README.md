@@ -1,7 +1,7 @@
 <h1>Hi!, I'm Honey Mae D. Delima!</h1>
 Pursuing a degree in Computer Science with an interest in technology and problem-solving.
 <h2>Education</h2>
-BS Computer Science<br>Currently studying at New Era University</br>
+Bachelor of Science in Computer Science<br>Currently studying at New Era University</br>
 <h2>Certifications</h2>
 <br><a href="https://courses.cognitiveclass.ai/certificates/b9834d98685b4858bb8079ab07af121b#"> SQL and Relational Databases 101</a>
 <h1>Skillsets</h1>
